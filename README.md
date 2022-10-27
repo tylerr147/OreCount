@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# OreCount
 
-## Setup
+## Usage
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Use the command `/orecount` to open config GUI
 
-## License
+## To-do
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Implement config menu for mod menus
